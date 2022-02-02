@@ -1,9 +1,9 @@
 ### Hi Developers 💖
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-himanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshi-sharma-48236421b/)](https://www.linkedin.com/in/himanshi-sharma-48236421b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-himanshi-yellow)](https://stackoverflow.com/users/17953693/himanshi-sharma)
+[![Linkedin Badge](https://img.shields.io/badge/-Himanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshi-sharma-48236421b/)](https://www.linkedin.com/in/himanshi-sharma-48236421b/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Himanshi-green)](https://himanshi-01.github.io/myprofile/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Himanshi-yellow)](https://stackoverflow.com/users/17953693/himanshi-sharma)
 
 I'm
 Full Stack Solution Architect
